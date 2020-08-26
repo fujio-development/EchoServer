@@ -1,0 +1,15 @@
+C:\Workspace\DotNet\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.exe
+C:\Workspace\DotNet\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.deps.json
+C:\Workspace\DotNet\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.json
+C:\Workspace\DotNet\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.dev.json
+C:\Workspace\DotNet\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.dll
+C:\Workspace\DotNet\EchoServer\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.pdb
+C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.Form1.resources
+C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csproj.GenerateResource.cache
+C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfoInputs.cache
+C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfo.cs
+C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csproj.CoreCompileInputs.cache
+C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.dll
+C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.pdb
+C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.genruntimeconfig.cache
+C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csprojAssemblyReference.cache
