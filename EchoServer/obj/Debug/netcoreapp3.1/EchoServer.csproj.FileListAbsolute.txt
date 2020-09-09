@@ -12,4 +12,3 @@ C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csp
 C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.dll
 C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.pdb
 C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.genruntimeconfig.cache
-C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csprojAssemblyReference.cache
