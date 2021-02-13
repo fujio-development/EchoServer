@@ -5,7 +5,6 @@ C:\Workspace\DotNet\EchoServer\EchoServer\bin\Debug\net5.0-windows\EchoServer.ru
 C:\Workspace\DotNet\EchoServer\EchoServer\bin\Debug\net5.0-windows\EchoServer.dll
 C:\Workspace\DotNet\EchoServer\EchoServer\bin\Debug\net5.0-windows\ref\EchoServer.dll
 C:\Workspace\DotNet\EchoServer\EchoServer\bin\Debug\net5.0-windows\EchoServer.pdb
-C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\net5.0-windows\EchoServer.csprojAssemblyReference.cache
 C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\net5.0-windows\EchoServer.Form1.resources
 C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\net5.0-windows\EchoServer.csproj.GenerateResource.cache
 C:\Workspace\DotNet\EchoServer\EchoServer\obj\Debug\net5.0-windows\EchoServer.GeneratedMSBuildEditorConfig.editorconfig
