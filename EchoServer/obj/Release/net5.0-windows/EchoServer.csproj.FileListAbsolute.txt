@@ -15,4 +15,3 @@ C:\Workspace\DotNet\EchoServer\EchoServer\obj\Release\net5.0-windows\EchoServer.
 C:\Workspace\DotNet\EchoServer\EchoServer\obj\Release\net5.0-windows\ref\EchoServer.dll
 C:\Workspace\DotNet\EchoServer\EchoServer\obj\Release\net5.0-windows\EchoServer.pdb
 C:\Workspace\DotNet\EchoServer\EchoServer\obj\Release\net5.0-windows\EchoServer.genruntimeconfig.cache
-C:\Workspace\DotNet\EchoServer\EchoServer\obj\Release\net5.0-windows\EchoServer.csprojAssemblyReference.cache
